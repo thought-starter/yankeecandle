@@ -132,7 +132,7 @@
             0.4444520895522388
         ],
         "img": "2020-01-30_B79UWl4FJy0_2233030503673666740.jpg",
-        "label": "Cluster 1"
+        "label": "Other"
     },
     {
         "images": [
@@ -235,7 +235,7 @@
             -0.15103018181818184
         ],
         "img": "2019-07-23_B0RZrOQJcH2_2094568223107564022.jpg",
-        "label": "Cluster 2"
+        "label": "Cards & Landscapes"
     },
     {
         "images": [
@@ -341,7 +341,7 @@
             -0.7928579629629628
         ],
         "img": "2018-12-05_BrBD9_uH3Qh_1927839569938445345.jpg",
-        "label": "Cluster 3"
+        "label": "Festive"
     },
     {
         "images": [
@@ -557,7 +557,7 @@
             0.6226727083333333
         ],
         "img": "2019-07-14_Bz5zC6OAfAH_2087924402585989127.jpg",
-        "label": "Cluster 5"
+        "label": "Morning Light"
     },
     {
         "images": [
@@ -650,7 +650,7 @@
             0.4603240000000001
         ],
         "img": "2020-05-20_CAa0tTkj06c_2313393166936184656.jpg",
-        "label": "Cluster 6"
+        "label": "Room Decor"
     },
     {
         "images": [
@@ -728,7 +728,7 @@
             0.6951913333333334
         ],
         "img": "2016-11-19_BM_x2d9AX2l_1387046457546210725.jpg",
-        "label": "Cluster 7"
+        "label": "Tables & Shelves"
     },
     {
         "images": [
@@ -798,7 +798,7 @@
             0.47498366666666664
         ],
         "img": "2020-04-29_B_k83XDhEf9_2298229396982745085.jpg",
-        "label": "Cluster 8"
+        "label": "Indoor Plant Pairing"
     },
     {
         "images": [
@@ -876,7 +876,7 @@
             -0.042870000000000005
         ],
         "img": "2018-01-19_BeJP_OJHbDz_1695957049891729651.jpg",
-        "label": "Cluster 9"
+        "label": "Evening Light"
     },
     {
         "images": [
@@ -939,6 +939,6 @@
             -0.47916217391304344
         ],
         "img": "2019-10-21_B33BPybnTkv_2159200029336484143.jpg",
-        "label": "Cluster 10"
+        "label": "Woody"
     }
 ]
